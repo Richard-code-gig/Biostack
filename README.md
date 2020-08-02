@@ -1,5 +1,5 @@
 # Biostack
 First coursework on bioinformatics.
-You can use this resource written in python on Visual Basic studio to view some information about me.
+You can use this resource written in Python3 language on Visual Basic studio to view some information about me.
 You need to know more? Contact me through the available channels.
 Thank you.
